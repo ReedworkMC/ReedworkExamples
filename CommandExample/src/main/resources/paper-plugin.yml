@@ -1,0 +1,6 @@
+name: CommandExample
+version: '${version}'
+
+main: dev.reedworkmc.examples.command.CommandExample
+api-version: '26.2'
+load: POSTWORLD

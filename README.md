@@ -9,6 +9,7 @@ Each example is a standalone project focused on a specific Reedwork feature or c
 | Example | Description |
 | --- | --- |
 | [Event Listener](./EventListenerExample/) | Automatic Bukkit/Paper event listener discovery and registration. |
+| [Command](./CommandExample/) | Annotation-based command discovery and registration with subcommands, aliases, permissions, cooldown, automatic usage generation, and automatic parameter resolution. |
 
 More examples will be added over time.
 
