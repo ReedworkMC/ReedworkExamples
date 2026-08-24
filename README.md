@@ -22,11 +22,9 @@ Choose an example and follow its README for the specific details.
 
 In general, examples can be built with Maven:
 
-***
-
+```
 mvn clean package
-
-***
+```
 
 The resulting plugin JAR can then be copied into the `plugins/` directory of a Paper server.
 
