@@ -11,7 +11,7 @@ import org.bukkit.entity.Player;
 @Command(
         value = "helloreedwork",
         description = "Send a welcome message to a player",
-        permission = "minecraft.commands.op", // reedwork.example.hello
+        permission = "reedwork.example.hello",
         cooldown = 10,
         aliases = {"hellorw", "hrw"}
 )
