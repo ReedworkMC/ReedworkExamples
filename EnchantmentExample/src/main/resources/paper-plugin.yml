@@ -1,0 +1,7 @@
+name: EnchantmentExample
+version: '${version}'
+
+main: dev.reedworkmc.examples.enchantment.EnchantmentExample
+bootstrapper: dev.reedworkmc.examples.enchantment.EnchantmentExampleBootstrap
+api-version: '26.2'
+load: POSTWORLD
