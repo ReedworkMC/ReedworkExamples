@@ -8,7 +8,7 @@ Each example is a standalone project focused on a specific Reedwork feature or c
 
 | Example | Description |
 | --- | --- |
-| [Event Listener](./eventlistener/) | Automatic Bukkit/Paper event listener discovery and registration. |
+| [Event Listener](./EventListenerExample/) | Automatic Bukkit/Paper event listener discovery and registration. |
 
 More examples will be added over time.
 
