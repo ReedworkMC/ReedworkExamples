@@ -1,0 +1,6 @@
+name: EventListenerExample
+version: '${version}'
+
+main: dev.reedworkmc.examples.eventlistener.EventListenerExample
+api-version: '26.2'
+load: POSTWORLD
