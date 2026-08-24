@@ -1,0 +1,6 @@
+name: DependencyInjectionExample
+version: '${version}'
+
+main: dev.reedworkmc.examples.dependencyinjection.DependencyInjectionExample
+api-version: '26.2'
+load: POSTWORLD
