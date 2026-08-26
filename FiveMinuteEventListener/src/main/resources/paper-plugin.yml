@@ -1,0 +1,6 @@
+name: FiveMinuteEventListener
+version: '${version}'
+
+main: dev.reedworkmc.examples.fiveminuteeventlistener.FiveMinuteEventListener
+api-version: '26.2'
+load: POSTWORLD

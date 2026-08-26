@@ -19,6 +19,7 @@ Each example is a standalone project focused on a specific Reedwork feature or c
 | Tutorial | Example | Description |
 |---|---|---|
 | [Create a PaperMC Brigadier Command](https://reedworkmc.github.io/tutorials/five-minute-command) | [Five Minute Command](./FiveMinuteCommand/) | Create your first Reedwork command using `@Command` and `@CommandHandler`, with automatic package scanning and command registration. |
+| [Create a PaperMC Event Listener](https://reedworkmc.github.io/tutorials/five-minute-event-listener) | [Five Minute Event Listener](./FiveMinuteEventListener/) | Create a PaperMC event listener and let Reedwork automatically discover and register it through package scanning. |
 
 More examples will be added over time.
 
