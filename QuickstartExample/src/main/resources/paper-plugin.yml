@@ -1,0 +1,7 @@
+name: QuickstartExample
+version: '${version}'
+
+main: dev.reedworkmc.examples.quickstart.QuickstartExample
+bootstrapper: dev.reedworkmc.examples.quickstart.QuickstartExampleBootstrap
+api-version: '26.2'
+load: POSTWORLD
