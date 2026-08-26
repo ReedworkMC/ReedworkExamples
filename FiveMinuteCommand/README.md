@@ -3,7 +3,7 @@
 A minimal tutorial example demonstrating how to create a command with Reedwork in five minutes.
 
 > **Tutorial:** This example is part of the **Create a Brigadier Command in 5 Minutes** tutorial.
-> Follow the complete tutorial at [reedworkmc.github.io/tutorials/reedwork/create-command](https://reedworkmc.github.io/tutorials/reedwork/create-command).
+> Follow the complete tutorial at [reedworkmc.github.io/tutorials/five-minute-command](https://reedworkmc.github.io/tutorials/five-minute-command).
 
 > **Prerequisite:** Reedwork must be installed in your local Maven repository. See the Installation guide for details.
 
