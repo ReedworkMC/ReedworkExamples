@@ -14,6 +14,12 @@ Each example is a standalone project focused on a specific Reedwork feature or c
 | [Dependency Injection](./DependencyInjectionExample/) | Constructor-based dependency injection with transient, singleton, and factory bindings, including external class bindings.                                            |
 | [Quickstart](./QuickstartExample/)                    | A complete example demonstrating command registration, event discovery, custom enchantments, and dependency injection working together.                               |
 
+## Learn Reedwork in 5 Minutes
+
+| Tutorial | Example | Description |
+|---|---|---|
+| [Create a PaperMC Brigadier Command](https://reedworkmc.github.io/tutorials/five-minute-command) | [Five Minute Command](./FiveMinuteCommand/) | Create your first Reedwork command using `@Command` and `@CommandHandler`, with automatic package scanning and command registration. |
+
 More examples will be added over time.
 
 ## Installation

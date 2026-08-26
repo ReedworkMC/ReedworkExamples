@@ -1,0 +1,6 @@
+name: FiveMinuteCommand
+version: '${version}'
+
+main: dev.reedworkmc.examples.fiveminutecommand.FiveMinuteCommand
+api-version: '26.2'
+load: POSTWORLD
