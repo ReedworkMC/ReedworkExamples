@@ -20,6 +20,7 @@ Each example is a standalone project focused on a specific Reedwork feature or c
 |---|---|---|
 | [Create a PaperMC Brigadier Command](https://reedworkmc.github.io/tutorials/five-minute-command) | [Five Minute Command](./FiveMinuteCommand/) | Create your first Reedwork command using `@Command` and `@CommandHandler`, with automatic package scanning and command registration. |
 | [Create a PaperMC Event Listener](https://reedworkmc.github.io/tutorials/five-minute-event-listener) | [Five Minute Event Listener](./FiveMinuteEventListener/) | Create a PaperMC event listener and let Reedwork automatically discover and register it through package scanning. |
+| [Create a PaperMC Custom Enchantment](https://reedworkmc.github.io/tutorials/five-minute-enchantment) | [Five Minute Enchantment](./FiveMinuteEnchantment/) | Create a custom PaperMC enchantment and let Reedwork automatically discover and register it using its annotation-based API. |
 
 More examples will be added over time.
 
@@ -43,7 +44,7 @@ The resulting plugin JAR can then be copied into the `plugins/` directory of a P
 
 For the complete Reedwork documentation, visit:
 
-[https://reedworkmc.github.io/Reedwork](https://reedworkmc.github.io/Reedwork)
+[https://reedworkmc.github.io/](https://reedworkmc.github.io/)
 
 ## Contributing
 

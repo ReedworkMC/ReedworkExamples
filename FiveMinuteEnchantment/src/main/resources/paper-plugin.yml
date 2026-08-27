@@ -1,0 +1,7 @@
+name: FiveMinuteEnchantment
+version: '${version}'
+
+main: dev.reedworkmc.examples.fiveminuteenchantment.FiveMinuteEnchantment
+bootstrapper: dev.reedworkmc.examples.fiveminuteenchantment.FiveMinuteEnchantmentBootstrap
+api-version: '26.2'
+load: POSTWORLD
